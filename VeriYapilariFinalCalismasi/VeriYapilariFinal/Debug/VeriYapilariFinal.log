@@ -1,0 +1,13 @@
+﻿  main.c
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\graphpath.h(20): warning C4013: 'time' undefined; assuming extern returning int
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(16): warning C4013: 'fileGetData' undefined; assuming extern returning int
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(16): error C2440: 'initializing': cannot convert from 'int' to 'STUDENT'
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(25): warning C4013: 'fileGetNumberOfData' undefined; assuming extern returning int
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(35): warning C4013: 'filePrintData' undefined; assuming extern returning int
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(50): error C2371: 'filePrintData': redefinition; different basic types
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(65): error C2371: 'fileGetData': redefinition; different basic types
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(70): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(70): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(70): note: the missing variadic argument 2 is required by format string '%s'
+  d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(70): note: this argument is used as a buffer size
+d:\projeler\visual studio 2017\veriyapilarifinal\veriyapilarifinal\file.h(100): warning C4098: 'mainFile': 'void' function returning a value

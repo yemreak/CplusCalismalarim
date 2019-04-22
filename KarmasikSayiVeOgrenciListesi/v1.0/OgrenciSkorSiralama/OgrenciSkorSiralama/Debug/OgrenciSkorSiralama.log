@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yemre\documents\projects\visualstudio\ogrenciskorsiralama\ogrenciskorsiralama\main.cpp(293): warning C4018: '<': signed/unsigned mismatch
+  OgrenciSkorSiralama.vcxproj -> C:\Users\YEmre\Documents\Projects\VisualStudio\OgrenciSkorSiralama\Debug\OgrenciSkorSiralama.exe
